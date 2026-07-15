@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alesanto1.github.io/canil-olivier-saints/sitemap.xml
